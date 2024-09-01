@@ -5,10 +5,10 @@ public class PotapovJavaPervoe {
         Scanner scanner = new Scanner(System.in);
 
         // Ввод чисел
-        System.out.print("Введите первое целое число (a): ");
+        System.out.print("Введите число (a): ");
         int a = scanner.nextInt();
 
-        System.out.print("Введите второе целое число (b): ");
+        System.out.print("Введите число (b): ");
         int b = scanner.nextInt();
 
         // Сравнение чисел
